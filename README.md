@@ -40,23 +40,23 @@
    - Solo mission: Billing app using Kotlin, Firebase, and Jetpack Compose (MVVM architecture).
    - Real-time data management for inventory, categories, and transactions.
    - Intuitive UI—because even aliens appreciate good design.
-   - [GitHub](https://github.com/Divinejmd13/BillingApp)
+   - [GitHub](https://github.com/Divinejmd13/Billing_app.git)
 
 4. **Retail Shop Database**
    - Crafted an efficient e-commerce DBMS using Python and MySQL.
    - Live inventory management, categorization, and discount warp drives.
    - Automated ordering system for low-stock scenarios (because no one likes out-of-stock wormholes).
-   - [GitHub](https://github.com/Divinejmd13/RetailShopDatabase)
+   - [GitHub](https://github.com/Divinejmd13/OnlineRetailShop.git)
 
 5. **Application Development in Java**
    - Commanded the "Tank Star" game using LIBGDX and GRADLE.
    - OOP-powered gameplay, intricate mechanics, and graphics that rival cosmic phenomena.
-   - [Game Link](#your-game-link)
+   - [Game Link](https://github.com/Divinejmd13/Tank_game.git)
 
 6. **Computer-Generated Pen-and-Ink Illustration**
    - Unleashed a rendering system using OpenGL and C++.
    - Configured a 3D BSP tree for efficient polygon navigation.
    - Because sometimes, art is the language of the cosmos.
-   - [GitHub](https://github.com/Divinejmd13/InkIllustration)
+   - [GitHub](https://github.com/Divinejmd13/Computer-ink-Illustration.git)
 
 Feel free to customize this cosmic template further or add stardust to your liking. May your commits be meteor showers! 🌠✨
