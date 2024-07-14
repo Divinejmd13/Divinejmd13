@@ -4,7 +4,7 @@
 
 📧 **Email**: adarsh21442@iiitd.ac.in  
 🎂 **DOB**: April 15, 2001  
-📍 **Find me on**: [GitHub](https://github.com/Divinejmd13) | [LinkedIn](www.linkedin.com/in/adarsh-iiitd)
+📍 **Find me on**: [GitHub](https://github.com/Divinejmd13) | [LinkedIn](https://www.linkedin.com/in/adarsh-iiitd)
 
 ## 🚀 Skills That Fuel My Orbit
 
