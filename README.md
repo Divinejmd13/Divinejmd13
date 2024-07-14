@@ -34,7 +34,7 @@
    - Built a cutting-edge news app in Kotlin with Jetpack Compose and Gemini AI.
    - Geolocation-based news updates—because news travels at warp speed.
    - Users can even ask questions about specific articles (like querying quasars).
-   - [GitHub]([https://github.com/Divinejmd13/Khabar](https://github.com/Divinejmd13/KhabarNews_App.git))
+   - [GitHub]((https://github.com/Divinejmd13/KhabarNews_App.git))
 
 3. **Billing App Development in Kotlin**
    - Solo mission: Billing app using Kotlin, Firebase, and Jetpack Compose (MVVM architecture).
