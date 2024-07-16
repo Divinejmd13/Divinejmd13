@@ -5,6 +5,10 @@
 📧 **Email**: adarsh21442@iiitd.ac.in  
 🎂 **DOB**: April 15, 2001  
 📍 **Find me on**: [GitHub](https://github.com/Divinejmd13) | [LinkedIn](https://www.linkedin.com/in/adarsh-iiitd)
+# Professional Summary
+
+Passionate and skilled **Android Developer** with hands-on experience in building and deploying robust mobile applications. Proficient in **Java**, **Kotlin**, and the **Android SDK**, I bring a solid understanding of **MVVM architecture** and working knowledge of **RESTful APIs**. My collaborative approach allows me to work effectively with cross-functional teams, delivering high-quality, maintainable, and scalable solutions.
+
 
 ## 🚀 Skills That Fuel My Orbit
 
